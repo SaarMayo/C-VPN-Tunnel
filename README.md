@@ -49,8 +49,8 @@ sudo modprobe tun
 
 ### Clone Repository
 ```bash
-git clone https://github.com/SaarMayo/tun-vpn.git
-cd tun-vpn
+git clone https://github.com/SaarMayo/C-VPN-Tunnel.git
+cd C-VPN-Tunnel
 ```
 
 ## Compilation
